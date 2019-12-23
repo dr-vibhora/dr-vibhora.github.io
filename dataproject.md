@@ -8,15 +8,15 @@ permalink: /dataprojects/
 
 ## Projects
 
-### 1. Burritos - [repo,](https://github.com/srcole/burritos) [blog,](https://srcole.github.io/100burritos/) [ignite talk,](https://www.youtube.com/watch?v=Hp6jFy4_bV4) [seminar1,](https://docs.google.com/presentation/d/1jVRM1Rng_km9Ycl2hcka82gfJ8n1m89kqcs3381M8Wg/edit?usp=sharing) [seminar2,](https://docs.google.com/presentation/d/1jBm4GFYtNnwSkALODX2CwXRmHQmVDrRoeF8cSG8tnDY/edit?usp=sharing) [poster,](https://srcole.github.io/assets/burrito/poster.pdf) [dashboard](https://sdburritos.herokuapp.com/)
+### 1. ANN for downscaling Groundwater model - [repo,](https://github.com/BrittGeek/Neural_Network) [poster,](https://srcole.github.io/assets/burrito/poster.pdf) [dashboard](https://sdburritos.herokuapp.com/)
 
 I designed a 10-dimensional system to systematically rate burrito quality and applied this method to rate 350+ burritos (60+ restaurants, 70+ unique reviewers). I then analyzed the data to establish significant differences between rival taco shops, explore dimensionality reduction, and quantify inter-reviewer reliability. I made a couple dashboards using Tableau and Dash to explore taco shop ratings around San Diego. I also formatted the data into an [SQL database and demonstrated some example queries](https://github.com/srcole/burritos/tree/master/SQL%20practice).
 
-### 2. Brain rhythms - [Papers,](https://scholar.google.com/citations?user=fZe7tcwAAAAJ&hl=en) [methods paper repo,](https://github.com/voytekresearch/Cole_2018_cyclebycycle) [lab toolbox,](https://github.com/voytekresearch/neurodsp) [coupling toolbox](https://github.com/voytekresearch/pacpy)
+### 2. Glacier - [Papers,](https://scholar.google.com/citations?user=fZe7tcwAAAAJ&hl=en) [methods paper repo,](https://github.com/voytekresearch/Cole_2018_cyclebycycle) [lab toolbox,](https://github.com/voytekresearch/neurodsp) [coupling toolbox](https://github.com/voytekresearch/pacpy)
 
 For my PhD research, I developed, implemented, and justified a fundamentally new approach to analyzing brain rhythms. Conventional analysis revolves around the Fourier transform, which decomposes brain signals as a sum of sine waves. However, these brain rhythms are often nonsinusoidal in shape, and so Fourier analysis does not well capture all the information in the signal. I [wrote a review paper](https://linkinghub.elsevier.com/retrieve/pii/S1364661316302182) that summarized past reports of potentially interesting nonsinusoidal phenomena, developed a python- and pandas-based framework for analyzing waveform shape ([methods paper](https://www.biorxiv.org/content/early/2018/04/16/302000) and [library](https://github.com/voytekresearch/neurodsp)), and applied it to uncover physiological information contained in waveform shape (paper in prep). Additionally, I [wrote a paper](http://www.jneurosci.org/content/early/2017/05/02/JNEUROSCI.2208-16.2017) demonstrating how a previous high-profile result was artifactual because it did not properly accounting for waveform shape.
 
-### 3. Police officer misconduct - [Crime Lab New York](https://urbanlabs.uchicago.edu/labs/crime-new-york) internship
+### 3. Computer Vision - [Crime Lab New York](https://urbanlabs.uchicago.edu/labs/crime-new-york) internship
 
 Using scikit-learn, I built and iterated among several machine learning models trained on police officer activity to predict the likelihood of complaints of excessive force. These models are designed to be incorporated in an early intervention system (EIS) used to efficiently allocate training or other resources in police departments. I also used lots of pandas and seaborn to visualize trends in police officer behavior and variance across districts.
 
