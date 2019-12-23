@@ -15,14 +15,22 @@ image: /assets/burrito/wordcloud.png
 		<br> PhD in Geodetic Science
 		<br> <u> Dissertation:</u> Application of Artificial Neural Network for downscaling of Groundwater Storage Changes
 	</li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Indian Institute of Technology (Indian School of Mines), Dhanbad, India   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2009- 2014 </span>
+	<li style="font-weight:400;"><span style="font-weight:400;">Indian Institute of Technology (Indian School of Mines), Dhanbad, India   &emsp;&emsp;&emsp;&emsp;&emsp 2009- 2014 </span>
 	<br>M.Sc. Tech in Applied Geology
 	<br> <u> Dissertation:</u> Application of Data Driven approach to address Glacier Melting
 	</li>
 	
 </ol>
-<span style="font-weight:400;">As of the most recent update of this blog post (Aug 2018), 71 reviewers visited 79 taco shops and critiqued 373 burritos. While Valentine's Mexican Food has earned the title of highest average burrito rating, the (non data-driven) consensus, there are many more to try. Here, the average burrito costs about $7 and is about 790mL in volume. Further, we explore correlations between burrito dimensions, such as the quality of the meat and nonmeat fillings, and identify a novel correlation between tortillas and Yelp ratings.</span>
 
+### Working Experience
+<span style="font-weight:400;">
+<ol>
+	<li style="font-weight:400;"><span style="font-weight:400;">Indian Institute of Technology (Indian School of Mines), Dhanbad, 		India   &emsp;&emsp;&emsp;&emsp;&emsp 2009- 2014 </span>
+	<br>M.Sc. Tech in Applied Geology
+	<br> <u> Dissertation:</u> Application of Data Driven approach to address Glacier Melting
+	</li>
+</span>
+</ol>
 <span style="font-weight:400;">For detailed descriptions, see the <strong><a href="https://docs.google.com/spreadsheets/d/18HkrklYz1bKpDLeL-kaMrGjAhUM6LeJMIACwEljCgaw/edit?usp=sharing">database of 350+ burrito reviews</a></strong>, and <strong><a href="https://docs.google.com/forms/d/1yF4ZtsYhc5jHkw3fI9AkxaCoIW2MXxIa28UUFNHgm0k/viewform">contribute your own reviews here</a></strong>. For more detailed analysis, see the <strong><a href="https://github.com/srcole/burritos">codebase for this project</a></strong>, the <strong><a href="https://srcole.github.io/assets/burrito/poster.pdf">burrito poster</a></strong>, <strong><a href="https://docs.google.com/presentation/d/1jBm4GFYtNnwSkALODX2CwXRmHQmVDrRoeF8cSG8tnDY/edit?usp=sharing">graduate seminar slides</a></strong>, and <strong><a href="https://www.youtube.com/watch?v=Hp6jFy4_bV4">Ignite talk</a></strong>.</span>
 
 
