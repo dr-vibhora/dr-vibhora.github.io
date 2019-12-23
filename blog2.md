@@ -13,11 +13,13 @@ image: /assets/burrito/wordcloud.png
 <ol>
 	<li style="font-weight:400;"><span style="font-weight:400;"><strong>The Ohio State University, Columbus, OH, USA </strong> 	          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2016- Present </span>
 		<br> PhD in Geodetic Science
-		<br> <u> Dissertation: Application of Artificial Neural Network for downscaling of Groundwater Storage Changes</u>
-		
+		<br> <u> Dissertation:</u> Application of Artificial Neural Network for downscaling of Groundwater Storage Changes
 	</li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Characterize the variance in burrito qualities across the county.</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Generate models for what makes a burrito great and investigate correlations in its dimensions</span></li>
+	<li style="font-weight:400;"><span style="font-weight:400;">Indian Institute of Technology (Indian School of Mines), Dhanbad, India   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2009- 2014 </span>
+	<br>M.Sc. Tech in Applied Geology
+	<br> <u> Dissertation:</u> Application of Data Driven approach to address Glacier Melting
+	</li>
+	
 </ol>
 <span style="font-weight:400;">As of the most recent update of this blog post (Aug 2018), 71 reviewers visited 79 taco shops and critiqued 373 burritos. While Valentine's Mexican Food has earned the title of highest average burrito rating, the (non data-driven) consensus, there are many more to try. Here, the average burrito costs about $7 and is about 790mL in volume. Further, we explore correlations between burrito dimensions, such as the quality of the meat and nonmeat fillings, and identify a novel correlation between tortillas and Yelp ratings.</span>
 
