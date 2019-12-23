@@ -1,1 +1,30 @@
-theme: jekyll-theme-slate
+title: 'Vibhor Agarwal'
+description: ''
+
+name: 'Vibhor Agarwal'
+url: https://BrittGeek.github.io
+
+theme: jekyll-theme-cayman
+
+# Google analytics services
+google_analytics: UA-154870116-1
+
+# Social
+twitter:
+  username: its_vibhora
+  card: summary
+github_username:      BrittGeek
+twitter_username:      its_vibhora
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+gems:
+  - jekyll-seo-tag
