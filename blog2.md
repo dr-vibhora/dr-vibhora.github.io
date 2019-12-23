@@ -2,16 +2,16 @@
 layout: default
 mathjax: true
 comments: true
-title: Burritos of San Diego
-permalink: /100burritos/
+title: Learning
+permalink: /blog/
 image: /assets/burrito/wordcloud.png
 ---
 
-### Summary
+### Educational Background
 
-<span style="font-weight:400;">We have developed a 10-dimensional system for rating the burritos in San Diego. The goal of this project is threefold:</span>
+<span style="font-weight:400;">I have been passionate about Excellence in Education</span>
 <ol>
-	<li style="font-weight:400;"><span style="font-weight:400;">Identify the best and worst burritos in San Diego to share this information with others. <strong><a href="https://public.tableau.com/profile/scott.cole#!/vizhome/BurritosinSanDiego/MainDash">Check out the burrito map here</a></strong></span></li>
+	<li style="font-weight:400;"><span style="font-weight:400;">The Ohio State University, Columbus, OH, USA                                   2016- Present <strong><a href="https://public.tableau.com/profile/scott.cole#!/vizhome/BurritosinSanDiego/MainDash">Check out the burrito map here</a></strong></span></li>
 	<li style="font-weight:400;"><span style="font-weight:400;">Characterize the variance in burrito qualities across the county.</span></li>
 	<li style="font-weight:400;"><span style="font-weight:400;">Generate models for what makes a burrito great and investigate correlations in its dimensions</span></li>
 </ol>
