@@ -11,7 +11,7 @@ image: /assets/burrito/wordcloud.png
 
 <span style="font-weight:400;">I have been passionate about Excellence in Education</span>
 <ol>
-	<li style="font-weight:400;"><span style="font-weight:400;">The Ohio State University, Columbus, OH, USA                                   2016- Present <strong><a href="https://public.tableau.com/profile/scott.cole#!/vizhome/BurritosinSanDiego/MainDash">Check out the burrito map here</a></strong></span></li>
+	<li style="font-weight:400;"><span style="font-weight:400;">The Ohio State University, Columbus, OH, USA &nbsp;&nbsp; &nbsp;&nbsp;                                  2016- Present <strong><a href="https://public.tableau.com/profile/scott.cole#!/vizhome/BurritosinSanDiego/MainDash">Check out the burrito map here</a></strong></span></li>
 	<li style="font-weight:400;"><span style="font-weight:400;">Characterize the variance in burrito qualities across the county.</span></li>
 	<li style="font-weight:400;"><span style="font-weight:400;">Generate models for what makes a burrito great and investigate correlations in its dimensions</span></li>
 </ol>
