@@ -11,7 +11,7 @@ image: /assets/burrito/wordcloud.png
 
 <span style="font-weight:400;">I have been passionate about Excellence in Education</span>
 <ol>
-	<li style="font-weight:400;"><span style="font-weight:400;"><strong>The Ohio State University, Columbus, OH, USA </strong> &emsp;;&emsp;&emsp;;&emsp;&emsp;;&emsp;&emsp;;&emsp;&emsp;;&emsp;&emsp;;&emsp; 2016- Present </span>
+	<li style="font-weight:400;"><span style="font-weight:400;"><strong>The Ohio State University, Columbus, OH, USA </strong> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2016- Present </span>
 		<br> PhD in Geodetic Science
 	</li>
 	<li style="font-weight:400;"><span style="font-weight:400;">Characterize the variance in burrito qualities across the county.</span></li>
