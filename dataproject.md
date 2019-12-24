@@ -20,7 +20,7 @@ For my PhD research, I developed, implemented, and justified a fundamentally new
 
 Using scikit-learn, I built and iterated among several machine learning models trained on police officer activity to predict the likelihood of complaints of excessive force. These models are designed to be incorporated in an early intervention system (EIS) used to efficiently allocate training or other resources in police departments. I also used lots of pandas and seaborn to visualize trends in police officer behavior and variance across districts.
 
-### 4. Keystroke biometrics - [repo,](https://github.com/srcole/continu) [dashboard,](http://www.continu.site) [slides](http://bit.ly/continu-slides)
+### 4.Urban Waste Monitoring and Classification with Data Driven Approach - [repo,](https://github.com/srcole/continu) [dashboard,](http://www.continu.site) [slides](http://bit.ly/continu-slides)
 
 Keystroke patterns offer a unique biometric to identify individuals and authenticate them in a way that is difficult for malicious users to reproduce. As an Insight Data Science fellow, I worked with a project management fellow and a data engineering fellow towards a system to continuously authenticate users using their keystrokes. I trained a gradient boosting model in order to identify users with a 98% true positive rate and 98% true negative rate (recall), and designed a dashboard that a security team could use to visualize suspicious user activity.
 
@@ -30,13 +30,9 @@ I scraped the [PubMed API](https://www.ncbi.nlm.nih.gov/pmc/tools/developers/) t
 
 This project was expanded during a subsequent hackathon. [Our team improved and expanded the text mining to compute a measure of the openness of each journal ("O-Factor")](https://github.com/srcole/o-factor).
 
-### 6. Flight delays - [repo,](https://github.com/srcole/flightdelay) [report](https://srcole.github.io/assets/flight_delay/report.pdf)
 
-[Tom Donoghue](https://tomdonoghue.github.io/) and I analyzed a data set of 5 million domestic flights in 2015. We characterized different trends in the delays of flights and built several machine learning models to predict if flights would be significantly delayed.
 
-### 7. Currency exchange prediction - [scraper,](https://github.com/srcole/fxml) [press](http://www.foxcarolina.com/story/18621418/clemson-students-made-40000)
 
-In a past life, I was super interested in trying to predict fluctuations in financial markets. Back when I used MATLAB (cringe), I built some machine learning models (logistic regression, SVM, neural net) from scratch (thanks Andrew Ng!) to predict future trends of the Euro-Dollar exchange rate based on historical trends. At least I had the sense to use python to scrape very high quality (1-minute resolution!) historical data of the exchange rates of several currency pairs over several years.
 
 ### 8. Politifact fact checks - [repo,](https://github.com/srcole/politifact-analysis) [blog post](https://srcole.github.io/2019/07/20/politifact/)
 
@@ -45,18 +41,6 @@ Politifact is a handy nonprofit organization that rates the truth value of polit
 ### 9. Personal data requests - [repo,](https://github.com/srcole/personal-data-requests) [blog post](https://srcole.github.io/2019/08/17/personal-data-requests/)
 
 The EU's General Data Protection Regulation (GDPR) law has prompted many web companies to allow its users to easily download (a subset of) the personal data they have stored. I was curious what information was held by the apps that I use (and what they would provide), so I requested, processed, analyzed, and visualized data from Spotify, Twitter, Amazon, Facebook, Apple, LinkedIn, Uber, Venmo, Bank of America, and Tinder.
-
-### 10. Maps with Tableau - [Tableau Public profile](https://public.tableau.com/profile/scott.cole#!/)
-
-I've used Tableau to make a few maps to visualize [a weighted sum of Olympic medals](https://public.tableau.com/profile/scott.cole#!/vizhome/Olympics-Scorepercountry/Dashboard1), [burrito ratings](https://public.tableau.com/profile/scott.cole#!/vizhome/BurritosinSanDiego/MainDash), and popularity of posters at the Society for Neuroscience annual meeting ([USA](https://public.tableau.com/profile/scott.cole#!/vizhome/SfN2016posterpopularityacrosstheUnitedStates/Dashboard1), [international](https://public.tableau.com/profile/scott.cole#!/vizhome/SfN2016posterpopularityacrosstheworld/Dashboard1)). For when I want to stay in Python, I made a [simple example of plotting features as a function fo US state](https://github.com/srcole/qwm/tree/master/usa_map). 
-
-### 11. Neuroscience poster popularity - [Notebooks,](https://github.com/srcole/qwm/tree/master/sfn) [blog](https://srcole.github.io/2016/11/27/sfnthemes/)
-
-At the [2016 Society for Neuroscience annual meeting](https://www.sfn.org/Annual-Meeting/Neuroscience-2016), I developed an efficient data collection system that allowed me to quickly measure the number of people at over 3000 posters. I then cross-referenced this data with the online abstract booklet in order to determine which themes were most popular. Additionally, I visualized how poster popularity varied depending on the state or country of the presenter, and [determined which deviances were and were not significant](https://srcole.github.io/2016/12/12/sfnstates/).
-
-### 12. Insight Data Science Fellows - [repo,](https://github.com/srcole/insightfellows) [blog](https://srcole.github.io/2018/05/10/insight_fellows/)
-
-I was interested in the backgrounds of Insight Data Science fellows and the sort of jobs they ended up getting, but the only information I could find was a [long list of pictures on their website](https://www.insightdatascience.com/fellows). Therefore, I used BeautifulSoup to scrape the information of these fellows and then used pandas and seaborn to visualize the prevalence of different universities, scientific fields, and companies that the fellows worked in. I also looked at the interactions to discover a few interesting statistical relationships among these.
 
 ### 13. Interactive visualization - [script,](https://github.com/srcole/qwm/blob/master/retire/make_bokeh.py) [blog](https://srcole.github.io/2017/09/09/retirement/)
 
@@ -72,9 +56,7 @@ Throughout my time doing these projects, I've also found it useful to make some 
 In order to help undergrads integrating into the lab, I and other lab members have written tutorials on how to use the standard tools that we use to analyze brain data. This has also included [empirical mode decomposition (EMD)](https://github.com/srcole/binder_emd) and [extracting data from images in a paper](
 https://github.com/srcole/qwm/blob/master/misc/paper_data/Extract%20time%20series%20from%20a%20published%20figure.ipynb).
 
-### 2. Python on the Open Science Grid - [tutorial,](https://srcole.github.io/2017/01/03/osg_python/) [demo files](https://github.com/srcole/demo_OSG_python)
 
-I was using the free supercomputing resources provided by the Open Science Grid (OSG) and there weren't many resources for using python as there were for MATLAB or C. So I shared a tutorial, that [OSG shared further](http://opensciencegrid.org/news/2017/02/10/free-supercomputing.html) to allow those who were also new to supsercomputing to get up and running utilizing it with their custom python scripts.
 
 ### 3. Introduction to data science - [Clustering slides,](https://srcole.github.io/assets/presentations/cogs108/clustering.html#/) [Linear regression notebook](https://github.com/srcole/qwm/blob/master/misc/COGS108_Multiple%20Linear%20Regression%20and%20Collinearity.ipynb)
 
