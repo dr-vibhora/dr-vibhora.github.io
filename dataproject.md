@@ -16,13 +16,15 @@ This is my key PhD project where I have developed a scheme for downscaling key m
 
 During my undergraduate study, I [led a study](https://linkinghub.elsevier.com/retrieve/pii/S1364661316302182) that analyzes and quantifies the mass mass balance for a key Himalayan glacier using a data driven approach. Glaciers are key groundwater resource and many Himalyan glaciers have undergone melting in recent decades. However ground based for monitoring health of such remote Himalayan glacier  are few since these methods are laborious and expensive. Remote Senisng methods often used for studying glacier changes also suffer from  measurements and processing error and lack of ground based validation. We used a holistic data driven approach to understand the different factors affecting the glacier health such as area and velocity chnages and provide a accurate estimate of the glcaier mass balance. The peer reviewed work has been extnsively followed and cited by the scientific community. 
 
-### 3. Computer Vision - [Crime Lab New York](https://urbanlabs.uchicago.edu/labs/crime-new-york) Classroom Projects
+### 3. Computer Vision - [Project files]() Classroom Projects
 
-Used openCV library to 
+Used openCV library to work on Classroom projects based on Phottogrammetry, Computer Visison tasks such as Homographic Transformation, Image Mosaicking, etc
 
-### 4.Urban Waste Monitoring and Classification with High Resolution Remote Sesning data - [docs](http://bit.ly/continu-slides)
+### 4.Urban Waste Monitoring and Classification with High Resolution Remote Sesning data - [docs](assets/misc/Study of waste dumping ground in Mumbai1.pdf)
 
-### 5.Hackweek for using Python tools in Geoscience applications - [repo,](https://github.com/srcole/continu) [dashboard,](http://www.continu.site) [slides](http://bit.ly/continu-slides)
+This study focused in using GIS operations in an open sourec softwares and common classification operations such as 
+
+### 5.Hackweek for using Python tools in Geoscience applications - [repo,]() [dashboard,]() [slides]()
 
 ### 5. Code sharing in neuroscience - [repo,](https://github.com/srcole/codesharing) [blog](https://srcole.github.io/2018/07/19/code_sharing_journals/)
 
