@@ -20,9 +20,9 @@ During my undergraduate study, I [led a study](https://linkinghub.elsevier.com/r
 
 Used openCV library to 
 
-### 4.Urban Waste Monitoring and Classification with Data Driven Approach - [repo,](https://github.com/srcole/continu) [dashboard,](http://www.continu.site) [slides](http://bit.ly/continu-slides)
+### 4.Urban Waste Monitoring and Classification with High Resolution Remote Sesning data - [docs](http://bit.ly/continu-slides)
 
-
+### 5.Hackweek for using Python tools in Geoscience applications - [repo,](https://github.com/srcole/continu) [dashboard,](http://www.continu.site) [slides](http://bit.ly/continu-slides)
 
 ### 5. Code sharing in neuroscience - [repo,](https://github.com/srcole/codesharing) [blog](https://srcole.github.io/2018/07/19/code_sharing_journals/)
 
