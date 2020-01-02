@@ -26,28 +26,6 @@ This study focused in using GIS operations in an open sourec softwares and commo
 
 ### 5.Hackweek for using Python tools in Geoscience applications - [repo,]() [dashboard,]() [slides]()
 
-### 5. Code sharing in neuroscience - [repo,](https://github.com/srcole/codesharing) [blog](https://srcole.github.io/2018/07/19/code_sharing_journals/)
-
-I scraped the [PubMed API](https://www.ncbi.nlm.nih.gov/pmc/tools/developers/) to obtain the full text of around 170,000 articles from 20 different journals that publish neuroscience papers. I did some keyword searching in order to approximately determine which articles relied on custom-written scripts, and which articles publicly shared their code. This involved designing a tool to efficiently, semi-automatically, sift through 200 papers in order to validate the keyword-based estimates. Ultimately, I was able to see how journals vary in terms of code sharing and track how this has improved over time.
-
-This project was expanded during a subsequent hackathon. [Our team improved and expanded the text mining to compute a measure of the openness of each journal ("O-Factor")](https://github.com/srcole/o-factor).
-
-
-
-
-
-### 8. Politifact fact checks - [repo,](https://github.com/srcole/politifact-analysis) [blog post](https://srcole.github.io/2019/07/20/politifact/)
-
-Politifact is a handy nonprofit organization that rates the truth value of political statements, mostly by American politicians. I scraped the results of their fact checking since their inception in 2007 and visualized some trends across time, geography, and the political spectrum.
-
-### 9. Personal data requests - [repo,](https://github.com/srcole/personal-data-requests) [blog post](https://srcole.github.io/2019/08/17/personal-data-requests/)
-
-The EU's General Data Protection Regulation (GDPR) law has prompted many web companies to allow its users to easily download (a subset of) the personal data they have stored. I was curious what information was held by the apps that I use (and what they would provide), so I requested, processed, analyzed, and visualized data from Spotify, Twitter, Amazon, Facebook, Apple, LinkedIn, Uber, Venmo, Bank of America, and Tinder.
-
-### 13. Interactive visualization - [script,](https://github.com/srcole/qwm/blob/master/retire/make_bokeh.py) [blog](https://srcole.github.io/2017/09/09/retirement/)
-
-I made a simple interactive graph using Bokeh that projects a savings plan to determine when you will have enough money to retire comfortably. I know I'm too young to be thinking about this already.
-
 
 ## Tutorials and teaching
 
