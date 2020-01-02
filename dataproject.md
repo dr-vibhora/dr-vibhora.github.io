@@ -8,7 +8,7 @@ permalink: /dataprojects/
 
 ## Projects
 
-### 1. ANN for downscaling Groundwater model - [repo,](https://github.com/BrittGeek/Neural_Network) [poster,](/assets/misc/VIBHOR_FOH (1).pdf) [Visualization](/VISUALIZATION_ANN.md)
+### 1. ANN for downscaling Groundwater model - [Repo,](https://github.com/BrittGeek/Neural_Network) [Poster,](/assets/misc/VIBHOR_FOH (1).pdf) [Visualization](/VISUALIZATION_ANN.md)
 
 This is my key PhD project where I have developed a scheme for downscaling key metrics for Groundwater (GW) Models uisng Remote Sensing (RS) and other modeling data via Artificial Neural Networks (ANN) approach. Conventionally, Groundwater Storage changes are required to be quantified using Groundwater Monitoring wells on the ground which are not able to measure such chnages on a consistent basis and are expensive to maintain. Satellite Remote Sensing based datasets such as from GRACE satellite provide harmonic coefficients which can be used to compute the Total Water Storage Changes through which Groundwater Storage Changes can be computed through rigorous analysis, althoigh such measurements still suffer from inaccuracies and coarse resolution of ~300 km which hinder accuarate analysis of GW storage chnages at a local level. We use GRACE satellite data along with Precipitation, Temperature, Evapotranspiration and SOil Moisture and other relevant data as input and Storage changes as Label data to improve the GWS estimates from satellite and to create better estimates for future as well. The work has been presented at key conferences   [Presentation for ANN approach in Grounwater Problems](https://www.czech-in.org/cmPortalV15/CM_W3_Searchable/iugg19/normal#!abstractdetails/0000801380).
 
