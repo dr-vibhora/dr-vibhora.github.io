@@ -27,17 +27,4 @@ This study focused in using GIS operations in an open sourec softwares and commo
 ### 5.Hackweek for using Python tools in Geoscience applications - [repo,]() [dashboard,]() [slides]()
 
 
-## Tutorials and teaching
 
-Throughout my time doing these projects, I've also found it useful to make some lectures and tutorials for explaining concepts and tools. Here are some of them!
-
-### 1. Neural signal processing - [Notebooks,](https://github.com/voytekresearch/neurodsp/tree/master/tutorials) YouTube videos ([1](https://www.youtube.com/watch?v=DIK5bfoTnlg)) ([2](https://www.youtube.com/watch?v=PAipVT_B_GY))
-
-In order to help undergrads integrating into the lab, I and other lab members have written tutorials on how to use the standard tools that we use to analyze brain data. This has also included [empirical mode decomposition (EMD)](https://github.com/srcole/binder_emd) and [extracting data from images in a paper](
-https://github.com/srcole/qwm/blob/master/misc/paper_data/Extract%20time%20series%20from%20a%20published%20figure.ipynb).
-
-
-
-### 3. Introduction to data science - [Clustering slides,](https://srcole.github.io/assets/presentations/cogs108/clustering.html#/) [Linear regression notebook](https://github.com/srcole/qwm/blob/master/misc/COGS108_Multiple%20Linear%20Regression%20and%20Collinearity.ipynb)
-
-As part of my advisor's introcution to data science undergraduate course, I gave a couple of guest lectures on clustering and multiple linear regression.
