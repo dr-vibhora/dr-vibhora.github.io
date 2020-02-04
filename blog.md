@@ -42,7 +42,7 @@ image: /assets/burrito/wordcloud.png
 
 #### Acknowledgements
 
-<span style="font-weight:400;">T</span>
+<span style="font-weight:400;"></span>
 
 #### Footnotes
 
