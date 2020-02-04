@@ -12,7 +12,7 @@ permalink: /VISUALIZATION_ANN/
 
 <div class="imgcap" style="text-align:center">
   <img src="/assets/images/figure-fig1_W640.jpg" alt="GRACE" style="width: 400px; height: 300px;">
-  <div class="thecap" style="text-align:center">Figure 1. Thats where the data comes from , GRACE twin satellite with a separation of 200 km at an elevation of 500 km. Source: [https://earthobservatory.nasa.gov/features/GRACE] (https://earthobservatory.nasa.gov/features/GRACE)</div>
+  <div class="thecap" style="text-align:center">Figure 1. Thats where the data comes from , GRACE twin satellite with a separation of 200 km at an elevation of 500 km. Source: [NASA](https://earthobservatory.nasa.gov/features/GRACE)</div>
 </div>
 
 <div class="imgcap" style="text-align:center">
