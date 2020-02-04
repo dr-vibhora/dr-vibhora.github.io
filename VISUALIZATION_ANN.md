@@ -12,18 +12,18 @@ permalink: /VISUALIZATION_ANN/
 
 <div class="imgcap" style="text-align:center">
   <img src="/assets/images/figure-fig1_W640.jpg" alt="GRACE" style="width: 400px; height: 300px;">
-  <div class="thecap" style="text-align:center">Figure 1. Thats where the data comes from , GRACE twin satellite with a separation of 200 km at an elevation of 500 km. Source: [NASA](https://earthobservatory.nasa.gov/features/GRACE)</div>
+  <div class="thecap" style="text-align:center">Figure 1. Thats where the data comes from , GRACE twin satellite with a separation of 200 km at an elevation of 500 km. Source: [NASA](https://earthobservatory.nasa.gov/features/GRACE) </div> 
 </div>
 
 <div class="imgcap" style="text-align:center">
   <img src="/assets/images/GRACE_UNFILTERED.png" alt="GRACE_unfilt" style="width: 500px; height: 300px;">
-  <div class="thecap" style="text-align:center">Figure 2. This is how the data for Water Storage Changes looj like as per the initial anlalysis. Alas, we cannot derive anything useful from the data yet. </div>
+  <div class="thecap" style="text-align:center">Figure 2. This is how the data for Water Storage Changes look like as per the initial anlalysis. Alas, we cannot derive anything useful from the data yet. </div>
 </div>
 
 
 <div class="imgcap" style="text-align:center">
   <img src="/assets/images/GRACE_UNFILTERED.png" alt="GRACE_unfilt" style="width: 500px; height: 300px;">
-  <div class="thecap" style="text-align:center">Figure 2. This is how the data for Water Storage Changes looj like as per the initial anlalysis. Alas, we cannot derive anything useful from the data yet. </div>
+  <div class="thecap" style="text-align:center">Figure 2. This is how the data for Water Storage Changes look like after Data Processing, which includes doamin specific knowledge, data cleaning approach and extensive harmonic analysis. Alas, Simialr maps are used to derive Water Stotrage Changes. </div>
 </div>
 
 <div class="imgcap" style="text-align:center">
