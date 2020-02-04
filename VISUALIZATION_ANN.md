@@ -11,26 +11,30 @@ permalink: /VISUALIZATION_ANN/
 #### THE BASICS
 
 <div class="imgcap" style="text-align:center">
-  <img src="/assets/images/figure-fig1_W640.jpg" alt="GRACE" style="width: 900px; height: 300px;">
-  <div class="thecap" style="text-align:center">Figure 1. Thats where the data comes from , GRACE twin satellite at an elevation of 500 km. Source: https://earthobservatory.nasa.gov/features/GRACE </div>
+  <img src="/assets/images/figure-fig1_W640.jpg" alt="GRACE" style="width: 400px; height: 300px;">
+  <div class="thecap" style="text-align:center">Figure 1. Thats where the data comes from , GRACE twin satellite with a separation of 200 km at an elevation of 500 km. Source: [https://earthobservatory.nasa.gov/features/GRACE] (https://earthobservatory.nasa.gov/features/GRACE)</div>
 </div>
 
 <div class="imgcap" style="text-align:center">
-  <img src="/assets/images/TWSC_2002_16.jpeg" alt="TWSC" style="width: 300px; height: 300px;">
-  <div class="thecap" style="text-align:center">Figure 1. The Vaiations of Total Water Storage Changes (TWSC) gives important info about the Surface, Soil, Atmospheric and Groundwater Storage Changes </div>
+  <img src="/assets/images/GRACE_UNFILTERED.png" alt="GRACE_unfilt" style="width: 500px; height: 300px;">
+  <div class="thecap" style="text-align:center">Figure 2. This is how the data for Water Storage Changes looj like as per the initial anlalysis. Alas, we cannot derive anything useful from the data yet. </div>
 </div>
 
 
+<div class="imgcap" style="text-align:center">
+  <img src="/assets/images/GRACE_UNFILTERED.png" alt="GRACE_unfilt" style="width: 500px; height: 300px;">
+  <div class="thecap" style="text-align:center">Figure 2. This is how the data for Water Storage Changes looj like as per the initial anlalysis. Alas, we cannot derive anything useful from the data yet. </div>
+</div>
 
 <div class="imgcap" style="text-align:center">
   <img src="/assets/images/TWSC_2002_16.jpeg" alt="TWSC" style="width: 900px; height: 300px;">
-  <div class="thecap" style="text-align:center">Figure 3. Time Series of variations of the Total Water Storage Changes (TWSC) after processing of the noisy GRACE meaurements. TWSC provides important info about the Surface, Soil, Atmospheric and Groundwater Storage Changes on Earth </div>
+  <div class="thecap" style="text-align:center">Figure 4. Time Series of variations of the Total Water Storage Changes (TWSC) after processing of the noisy GRACE meaurements. TWSC provides important info about the Surface, Soil, Atmospheric and Groundwater Storage Changes on Earth </div>
 </div>
 
 
 <div class="imgcap" style="text-align:center">
   <img src="/assets/images/GWL_ET.jpeg" alt="TWSC" style="width: 800px; height: 300px;">
-  <div class="thecap" style="text-align:center">Figure 4. The analysis of the dependence between variables </div>
+  <div class="thecap" style="text-align:center">Figure 5. The analysis of the dependence between variables </div>
 </div>
 
 
