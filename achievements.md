@@ -1,3 +1,12 @@
+---
+layout: default
+mathjax: true
+comments: true
+title: Achievements
+permalink: /achievements/
+image: /assets/burrito/wordcloud.png
+---
+
 I enjoy learning, teaching, travelling, hiking, reading books, giving back to tyhe community.
 
 Academic Achievements: 
