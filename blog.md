@@ -25,10 +25,8 @@ image: /assets/burrito/wordcloud.png
 ### Working Experience
 <span style="font-weight:400;">
 <ol>
-	<li style="font-weight:400;"><span style="font-weight:400;">Indian Institute of Technology (Indian School of Mines), Dhanbad, 		India   &emsp;&emsp;&emsp;&emsp;&emsp 2009- 2014 </span>
-	<br>M.Sc. Tech in Applied Geology
-	<br> <u> Dissertation:</u> Application of Data Driven approach to address Glacier Melting
-	</li>
+	<li style="font-weight:400;"><span style="font-weight:400;"><strong> Graduate Teaching Assistant </strong>
+		<br> School of Earth Sciences, The Ohio State University, Columbus, OH, USA	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; August 2017 – PresentLed 3 Geoscience labs comprising 100 students per semester and ensured the students are able to usebasic Statistics, Algebra and analytical abilities to solve problems.Division of Geodetic Sciences, The Ohio State University, Columbus, OH, USAGraduate Student/ ResearcherAugust 2016 – PresentDeveloped research projects on Machine Learning applications to address real world problems.Cairn India Limited, Gurgaon, IndiaSummer InternshipJune 2013 – July 2013Worked in cross functional team and used domain knowledge to identify the good producing regionsin the oil field .  The analysis had the potential to enhance better quantification of Petroleum Assets
 </span>
 </ol>
 
