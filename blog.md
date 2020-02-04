@@ -26,7 +26,14 @@ image: /assets/burrito/wordcloud.png
 <span style="font-weight:400;">
 <ol>
 	<li style="font-weight:400;"><span style="font-weight:400;"><strong> Graduate Teaching Assistant </strong>
-		<br> School of Earth Sciences, The Ohio State University, Columbus, OH, USA	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; August 2017 – PresentLed 3 Geoscience labs comprising 100 students per semester and ensured the students are able to usebasic Statistics, Algebra and analytical abilities to solve problems.Division of Geodetic Sciences, The Ohio State University, Columbus, OH, USAGraduate Student/ ResearcherAugust 2016 – PresentDeveloped research projects on Machine Learning applications to address real world problems.Cairn India Limited, Gurgaon, IndiaSummer InternshipJune 2013 – July 2013Worked in cross functional team and used domain knowledge to identify the good producing regionsin the oil field .  The analysis had the potential to enhance better quantification of Petroleum Assets
+		<br> School of Earth Sciences, The Ohio State University, Columbus, OH, USA	&emsp;&emsp; August 2017 – Present
+		<br> Led 3 Geoscience labs comprising 100 students per semester and ensured the students are able to usebasic Statistics, Algebra and analytical abilities to solve problems.
+	<li style="font-weight:400;"><span style="font-weight:400;"><strong>Graduate Student/ Researcher </strong>
+		<br> Division of Geodetic Sciences, The Ohio State University, Columbus, OH, USA &emsp;&emsp; August 2016 – Present
+		<br> Developed research projects on Machine Learning applications to address real world problems.
+	<li style="font-weight:400;"><span style="font-weight:400;"><strong> Summer Intern  </strong>
+		<br> Cairn India Limited, Gurgaon, India   &emsp;&emsp;June 2013 – July 2013
+		<br> Worked in cross functional team and used domain knowledge to identify the good producing regionsin the oil field .                  The analysis had the potential to enhance better quantification of Petroleum Assets
 </span>
 </ol>
 
