@@ -6,7 +6,9 @@ title: Visualization projects
 permalink: /VISUALIZATION_ANN/
 ---
 
-               ## THE PAGE WILL BE UNDER CONSTRUCTION AS THE PROJECT IS BEING UNDERTAKEN AND SCHEDULED FOR PEER REVIEW PROCESS
+               ## THE PAGE IS CONSTANTLY UPGRADED AS THE PROJECT IS BEING UNDERTAKEN AND SCHEDULED FOR PEER REVIEW PROCESS
+               
+#### THE BASICS
 
 <div class="imgcap" style="text-align:center">
   <img src="/assets/images/figure-fig1_W640.jpg" alt="GRACE" style="width: 900px; height: 300px;">
