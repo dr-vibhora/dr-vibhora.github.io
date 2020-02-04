@@ -7,6 +7,13 @@ Academic Achievements:
 
 2. Erasmus Mundus Fellowship for Semester Exchange in KTH Stockholm
 
+3. OSU Fellowship (2016- 17) to top 500 incoming graduate students at The Ohio State University
+
+Extra Curricular 
+
+1. Community Service Projects: Enthuised to lead a group of undergraduates on a community service project in the Smoky Mountains in TN and NC. 
+See our team on the hiking adventure taking care of trail maintenace job. https://drive.google.com/file/d/1n96ZdwBoEiKcBzpTejauaNy0Is6wyeLN/view
+
 3. Constant leadership development under the mentorship of BWW mentors and leaders through Reading, Listening and Associations. 
 
-See our team on the hiking adventure taking care of trail maintenace job. https://drive.google.com/file/d/1n96ZdwBoEiKcBzpTejauaNy0Is6wyeLN/view
+
