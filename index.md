@@ -2,7 +2,7 @@
 layout: default
 ---
 
-                       <b> Hi! I’m Vibhor Agarwal. I AM GLAD THAT YOU CHOSE TOP VISIT MY PROFILE. </b>
+** Hi! I’m Vibhor Agarwal. I AM GLAD THAT YOU CHOSE TOP VISIT MY PROFILE. **
 
 I am a final year PhD candidate at The Ohio State Univeristy and have a background in Geospatial Machine Learnimng applications. made this webpage mostly to showcase my interest in data science. I am a firm believer in rigorous data analysis as a first step towards any data science project to understand the real context and the value of the data.
         
