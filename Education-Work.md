@@ -3,7 +3,7 @@ layout: default
 mathjax: true
 comments: true
 title: Learning
-permalink: /Learning/
+permalink: /Education-Work/
 image: /assets/burrito/wordcloud.png
 ---
 
