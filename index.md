@@ -2,8 +2,16 @@
 layout: default
 ---
 
-<strong> Hi! I’m Vibhor Agarwal. I AM GLAD THAT YOU CHOSE TOP VISIT MY PROFILE. </strong>
+Hi! I’m Vibhor Agarwal. I am currenty working as PostDoctoral Researcher at Univeristy pof Dayton after completeing my PhD from The Ohio State Univeristy. 
+My expertise is in compuational geoscience with research interest in freshwater resources such as glaciers and groundwater. Folloing are research focus of my past projects:
 
-I am a final year PhD candidate at The Ohio State Univeristy and have a research background in Geospatial Machine Learnimng applications. 
+1. Remote Sensing and GIS
+2. Machine Learnimng applications
+3. Environmental Geology
+4. Hydrogeology
+5. Glaciology and geomorphology
+
+I am actively incrteasing the portfolio of projects I can contribute to through strong collaborations within academia and beyond.
+  
         
-I’m now a PhD candidate at The Ohio State University. I have an extensive expereince working with the Remote Sesning big data and have developed several innovative solution to scientfifc problems using a data driven approach. Specifically, </p
+
